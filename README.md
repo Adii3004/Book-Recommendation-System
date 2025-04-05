@@ -27,10 +27,6 @@
 **AI Integration:**
 - Mistral model via [OpenRouter API](https://openrouter.ai/)
 
-## Project Structure
-
-Book-Recommendation/ ├── client/ # Frontend (React + Vite) │ ├── public/ │ └── src/ ├── api.js # Handles requests to OpenRouter ├── server.js # Express backend server ├── .env # Environment variables (not committed) ├── .gitignore ├── README.md └── requirements.txt # Backend dependencies (for reference)
-
 ## Getting Started
 
 ### 1. Clone the repository
